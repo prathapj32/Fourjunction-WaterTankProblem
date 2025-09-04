@@ -1,0 +1,161 @@
+2025-09-04 08:25:44.853 +05:30 [INF] User profile is available. Using 'C:\Users\prath\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2025-09-04 08:25:45.129 +05:30 [INF] Now listening on: https://localhost:7002
+2025-09-04 08:25:45.131 +05:30 [INF] Now listening on: http://localhost:5036
+2025-09-04 08:25:45.253 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2025-09-04 08:25:45.255 +05:30 [INF] Hosting environment: Development
+2025-09-04 08:25:45.257 +05:30 [INF] Content root path: C:\Prathap\Working\WaterTankApplication\WaterTankApplication
+2025-09-04 08:25:45.945 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7002/ - null null
+2025-09-04 08:25:46.083 +05:30 [INF] Executing endpoint 'WaterTankApplication.Controllers.WaterTankController.Index (WaterTankApplication)'
+2025-09-04 08:25:46.117 +05:30 [INF] Route matched with {action = "Index", controller = "WaterTank"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller WaterTankApplication.Controllers.WaterTankController (WaterTankApplication).
+2025-09-04 08:25:46.142 +05:30 [INF] GET WaterTank Index accessed
+2025-09-04 08:25:46.151 +05:30 [INF] Executing ViewResult, running view Index.
+2025-09-04 08:25:46.412 +05:30 [INF] Executed ViewResult - view Index executed in 267.2536ms.
+2025-09-04 08:25:46.415 +05:30 [INF] Executed action WaterTankApplication.Controllers.WaterTankController.Index (WaterTankApplication) in 281.2202ms
+2025-09-04 08:25:46.417 +05:30 [INF] Executed endpoint 'WaterTankApplication.Controllers.WaterTankController.Index (WaterTankApplication)'
+2025-09-04 08:25:46.428 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7002/ - 200 null text/html; charset=utf-8 490.9166ms
+2025-09-04 08:25:46.441 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7002/WaterTankApplication.styles.css?v=Xk3stN24iKwWHhkipm_Dx3rrUXI8xnK2UOqm9odS_GI - null null
+2025-09-04 08:25:46.441 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7002/_framework/aspnetcore-browser-refresh.js - null null
+2025-09-04 08:25:46.452 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7002/_vs/browserLink - null null
+2025-09-04 08:25:46.458 +05:30 [INF] Sending file. Request path: '/WaterTankApplication.styles.css'. Physical path: 'C:\Prathap\Working\WaterTankApplication\WaterTankApplication\obj\Debug\net8.0\scopedcss\bundle\WaterTankApplication.styles.css'
+2025-09-04 08:25:46.461 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7002/WaterTankApplication.styles.css?v=Xk3stN24iKwWHhkipm_Dx3rrUXI8xnK2UOqm9odS_GI - 200 1138 text/css 19.7956ms
+2025-09-04 08:25:46.474 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7002/_framework/aspnetcore-browser-refresh.js - 200 16525 application/javascript; charset=utf-8 33.0049ms
+2025-09-04 08:25:46.514 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7002/_vs/browserLink - 200 null text/javascript; charset=UTF-8 62.6617ms
+2025-09-04 08:25:47.793 +05:30 [INF] Request starting HTTP/2 POST https://localhost:7002/ - application/x-www-form-urlencoded 196
+2025-09-04 08:25:47.816 +05:30 [INF] Executing endpoint 'WaterTankApplication.Controllers.WaterTankController.Index (WaterTankApplication)'
+2025-09-04 08:25:47.826 +05:30 [INF] Route matched with {action = "Index", controller = "WaterTank"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index(System.String) on controller WaterTankApplication.Controllers.WaterTankController (WaterTankApplication).
+2025-09-04 08:25:47.883 +05:30 [INF] POST WaterTank Index called with input: null
+2025-09-04 08:25:47.889 +05:30 [WRN] Received empty input.
+2025-09-04 08:25:47.892 +05:30 [INF] Executing ViewResult, running view Index.
+2025-09-04 08:25:47.928 +05:30 [INF] Executed ViewResult - view Index executed in 37.3434ms.
+2025-09-04 08:25:47.930 +05:30 [INF] Executed action WaterTankApplication.Controllers.WaterTankController.Index (WaterTankApplication) in 86.7536ms
+2025-09-04 08:25:47.932 +05:30 [INF] Executed endpoint 'WaterTankApplication.Controllers.WaterTankController.Index (WaterTankApplication)'
+2025-09-04 08:25:47.940 +05:30 [INF] Request finished HTTP/2 POST https://localhost:7002/ - 200 null text/html; charset=utf-8 147.0545ms
+2025-09-04 08:25:47.947 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7002/WaterTankApplication.styles.css?v=Xk3stN24iKwWHhkipm_Dx3rrUXI8xnK2UOqm9odS_GI - null null
+2025-09-04 08:25:47.948 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7002/_vs/browserLink - null null
+2025-09-04 08:25:47.948 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7002/_framework/aspnetcore-browser-refresh.js - null null
+2025-09-04 08:25:47.953 +05:30 [INF] The file /WaterTankApplication.styles.css was not modified
+2025-09-04 08:25:47.966 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7002/_framework/aspnetcore-browser-refresh.js - 200 16525 application/javascript; charset=utf-8 18.4574ms
+2025-09-04 08:25:47.971 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7002/WaterTankApplication.styles.css?v=Xk3stN24iKwWHhkipm_Dx3rrUXI8xnK2UOqm9odS_GI - 304 null text/css 24.076ms
+2025-09-04 08:25:47.983 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7002/_vs/browserLink - 200 null text/javascript; charset=UTF-8 34.8029ms
+2025-09-04 08:26:41.440 +05:30 [INF] Request starting HTTP/2 POST https://localhost:7002/ - application/x-www-form-urlencoded 309
+2025-09-04 08:26:41.464 +05:30 [INF] Executing endpoint 'WaterTankApplication.Controllers.WaterTankController.Index (WaterTankApplication)'
+2025-09-04 08:26:41.467 +05:30 [INF] Route matched with {action = "Index", controller = "WaterTank"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index(System.String) on controller WaterTankApplication.Controllers.WaterTankController (WaterTankApplication).
+2025-09-04 08:26:41.532 +05:30 [INF] POST WaterTank Index called with input: 1,2,3,4,5,6,7,8,9,0,0,0,0,8,9,6,0,5,0,4,7,3,4,0,2,3,4,5,7
+2025-09-04 08:26:41.538 +05:30 [INF] Parsed input blocks: 1, 2, 3, 4, 5, 6, 7, 8, 9, 0, 0, 0, 0, 8, 9, 6, 0, 5, 0, 4, 7, 3, 4, 0, 2, 3, 4, 5, 7
+2025-09-04 08:26:41.544 +05:30 [INF] Starting trapped water calculation.
+2025-09-04 08:26:41.610 +05:30 [INF] Completed calculation: total trapped water = 85
+2025-09-04 08:26:41.612 +05:30 [INF] Trapped water calculated: 85
+2025-09-04 08:26:41.629 +05:30 [INF] Executing ViewResult, running view Index.
+2025-09-04 08:26:41.667 +05:30 [INF] Executed ViewResult - view Index executed in 41.6669ms.
+2025-09-04 08:26:41.670 +05:30 [INF] Executed action WaterTankApplication.Controllers.WaterTankController.Index (WaterTankApplication) in 178.1752ms
+2025-09-04 08:26:41.672 +05:30 [INF] Executed endpoint 'WaterTankApplication.Controllers.WaterTankController.Index (WaterTankApplication)'
+2025-09-04 08:26:41.678 +05:30 [INF] Request finished HTTP/2 POST https://localhost:7002/ - 200 null text/html; charset=utf-8 237.8876ms
+2025-09-04 08:26:41.687 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7002/WaterTankApplication.styles.css?v=Xk3stN24iKwWHhkipm_Dx3rrUXI8xnK2UOqm9odS_GI - null null
+2025-09-04 08:26:41.688 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7002/_framework/aspnetcore-browser-refresh.js - null null
+2025-09-04 08:26:41.693 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7002/_vs/browserLink - null null
+2025-09-04 08:26:41.706 +05:30 [INF] The file /WaterTankApplication.styles.css was not modified
+2025-09-04 08:26:41.745 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7002/_framework/aspnetcore-browser-refresh.js - 200 16525 application/javascript; charset=utf-8 57.0534ms
+2025-09-04 08:26:41.748 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7002/WaterTankApplication.styles.css?v=Xk3stN24iKwWHhkipm_Dx3rrUXI8xnK2UOqm9odS_GI - 304 null text/css 61.2037ms
+2025-09-04 08:26:41.773 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7002/_vs/browserLink - 200 null text/javascript; charset=UTF-8 83.9386ms
+2025-09-04 08:26:51.730 +05:30 [INF] Request starting HTTP/2 POST https://localhost:7002/ - application/x-www-form-urlencoded 312
+2025-09-04 08:26:51.753 +05:30 [INF] Executing endpoint 'WaterTankApplication.Controllers.WaterTankController.Index (WaterTankApplication)'
+2025-09-04 08:26:51.757 +05:30 [INF] Route matched with {action = "Index", controller = "WaterTank"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index(System.String) on controller WaterTankApplication.Controllers.WaterTankController (WaterTankApplication).
+2025-09-04 08:26:51.811 +05:30 [INF] POST WaterTank Index called with input: 1,2,3,4,5,6,7,8,9,0,0,0,0,8,9,6,0,5,0,4,7,3,4,0,2,3,4,5,7]
+2025-09-04 08:26:51.813 +05:30 [INF] Parsed input blocks: 1, 2, 3, 4, 5, 6, 7, 8, 9, 0, 0, 0, 0, 8, 9, 6, 0, 5, 0, 4, 7, 3, 4, 0, 2, 3, 4, 5, 7
+2025-09-04 08:26:51.815 +05:30 [INF] Starting trapped water calculation.
+2025-09-04 08:26:51.894 +05:30 [INF] Completed calculation: total trapped water = 85
+2025-09-04 08:26:51.898 +05:30 [INF] Trapped water calculated: 85
+2025-09-04 08:26:51.907 +05:30 [INF] Executing ViewResult, running view Index.
+2025-09-04 08:26:51.945 +05:30 [INF] Executed ViewResult - view Index executed in 42.4643ms.
+2025-09-04 08:26:51.947 +05:30 [INF] Executed action WaterTankApplication.Controllers.WaterTankController.Index (WaterTankApplication) in 165.637ms
+2025-09-04 08:26:51.950 +05:30 [INF] Executed endpoint 'WaterTankApplication.Controllers.WaterTankController.Index (WaterTankApplication)'
+2025-09-04 08:26:51.955 +05:30 [INF] Request finished HTTP/2 POST https://localhost:7002/ - 200 null text/html; charset=utf-8 225.1067ms
+2025-09-04 08:26:51.963 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7002/WaterTankApplication.styles.css?v=Xk3stN24iKwWHhkipm_Dx3rrUXI8xnK2UOqm9odS_GI - null null
+2025-09-04 08:26:51.967 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7002/_vs/browserLink - null null
+2025-09-04 08:26:51.967 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7002/_framework/aspnetcore-browser-refresh.js - null null
+2025-09-04 08:26:51.969 +05:30 [INF] The file /WaterTankApplication.styles.css was not modified
+2025-09-04 08:26:51.992 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7002/_framework/aspnetcore-browser-refresh.js - 200 16525 application/javascript; charset=utf-8 25.6822ms
+2025-09-04 08:26:51.996 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7002/_vs/browserLink - 200 null text/javascript; charset=UTF-8 29.5408ms
+2025-09-04 08:26:51.996 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7002/WaterTankApplication.styles.css?v=Xk3stN24iKwWHhkipm_Dx3rrUXI8xnK2UOqm9odS_GI - 304 null text/css 33.8315ms
+2025-09-04 08:27:06.732 +05:30 [INF] Request starting HTTP/2 POST https://localhost:7002/ - application/x-www-form-urlencoded 340
+2025-09-04 08:27:06.752 +05:30 [INF] Executing endpoint 'WaterTankApplication.Controllers.WaterTankController.Index (WaterTankApplication)'
+2025-09-04 08:27:06.755 +05:30 [INF] Route matched with {action = "Index", controller = "WaterTank"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index(System.String) on controller WaterTankApplication.Controllers.WaterTankController (WaterTankApplication).
+2025-09-04 08:27:06.815 +05:30 [INF] POST WaterTank Index called with input: 1,2,3,4,5,6,7,8,9,0,0,0,0,8,9,6,0,5,0,4,7,3,4,0,2,3,4,5,7,0,0,0,0,0,0,0,
+2025-09-04 08:27:06.941 +05:30 [ERR] Failed parsing input to integers.
+System.FormatException: The input string '' was not in a correct format.
+   at System.Number.ThrowFormatException[TChar](ReadOnlySpan`1 value)
+   at System.Int32.Parse(String s)
+   at System.Array.ConvertAll[TInput,TOutput](TInput[] array, Converter`2 converter)
+   at WaterTankApplication.Controllers.WaterTankController.Index(String inputHeights) in C:\Prathap\Working\WaterTankApplication\WaterTankApplication\Controllers\WaterTankController.cs:line 53
+2025-09-04 08:27:06.990 +05:30 [INF] Executing ViewResult, running view Index.
+2025-09-04 08:27:07.027 +05:30 [INF] Executed ViewResult - view Index executed in 40.0934ms.
+2025-09-04 08:27:07.029 +05:30 [INF] Executed action WaterTankApplication.Controllers.WaterTankController.Index (WaterTankApplication) in 248.1984ms
+2025-09-04 08:27:07.032 +05:30 [INF] Executed endpoint 'WaterTankApplication.Controllers.WaterTankController.Index (WaterTankApplication)'
+2025-09-04 08:27:07.037 +05:30 [INF] Request finished HTTP/2 POST https://localhost:7002/ - 200 null text/html; charset=utf-8 305.9925ms
+2025-09-04 08:27:07.042 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7002/WaterTankApplication.styles.css?v=Xk3stN24iKwWHhkipm_Dx3rrUXI8xnK2UOqm9odS_GI - null null
+2025-09-04 08:27:07.043 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7002/_framework/aspnetcore-browser-refresh.js - null null
+2025-09-04 08:27:07.044 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7002/_vs/browserLink - null null
+2025-09-04 08:27:07.080 +05:30 [INF] The file /WaterTankApplication.styles.css was not modified
+2025-09-04 08:27:07.080 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7002/_vs/browserLink - 200 null text/javascript; charset=UTF-8 36.3287ms
+2025-09-04 08:27:07.081 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7002/_framework/aspnetcore-browser-refresh.js - 200 16525 application/javascript; charset=utf-8 37.8554ms
+2025-09-04 08:27:07.101 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7002/WaterTankApplication.styles.css?v=Xk3stN24iKwWHhkipm_Dx3rrUXI8xnK2UOqm9odS_GI - 304 null text/css 58.2649ms
+2025-09-04 12:14:20.286 +05:30 [INF] User profile is available. Using 'C:\Users\prath\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2025-09-04 12:14:20.621 +05:30 [INF] Now listening on: https://localhost:7002
+2025-09-04 12:14:20.622 +05:30 [INF] Now listening on: http://localhost:5036
+2025-09-04 12:14:20.672 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2025-09-04 12:14:20.672 +05:30 [INF] Hosting environment: Development
+2025-09-04 12:14:20.673 +05:30 [INF] Content root path: C:\Prathap\Working\WaterTankApplication\WaterTankApplication
+2025-09-04 12:14:21.332 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7002/ - null null
+2025-09-04 12:14:21.461 +05:30 [INF] Executing endpoint 'WaterTankApplication.Controllers.WaterTankController.Index (WaterTankApplication)'
+2025-09-04 12:14:21.506 +05:30 [INF] Route matched with {action = "Index", controller = "WaterTank"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller WaterTankApplication.Controllers.WaterTankController (WaterTankApplication).
+2025-09-04 12:14:21.522 +05:30 [INF] GET WaterTank Index accessed
+2025-09-04 12:14:21.532 +05:30 [INF] Executing ViewResult, running view Index.
+2025-09-04 12:14:21.739 +05:30 [INF] Executed ViewResult - view Index executed in 215.3233ms.
+2025-09-04 12:14:21.741 +05:30 [INF] Executed action WaterTankApplication.Controllers.WaterTankController.Index (WaterTankApplication) in 226.6467ms
+2025-09-04 12:14:21.743 +05:30 [INF] Executed endpoint 'WaterTankApplication.Controllers.WaterTankController.Index (WaterTankApplication)'
+2025-09-04 12:14:21.750 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7002/ - 200 null text/html; charset=utf-8 425.1172ms
+2025-09-04 12:14:21.759 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7002/js/site.js?v=hRQyftXiu1lLX2P9Ly9xa4gHJgLeR1uGN5qegUobtGo - null null
+2025-09-04 12:14:21.759 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7002/lib/bootstrap/dist/css/bootstrap.min.css - null null
+2025-09-04 12:14:21.759 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7002/css/site.css?v=pAGv4ietcJNk_EwsQZ5BN9-K4MuNYS2a9wl4Jw-q9D0 - null null
+2025-09-04 12:14:21.759 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7002/lib/jquery/dist/jquery.min.js - null null
+2025-09-04 12:14:21.759 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7002/WaterTankApplication.styles.css?v=Xk3stN24iKwWHhkipm_Dx3rrUXI8xnK2UOqm9odS_GI - null null
+2025-09-04 12:14:21.759 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7002/_framework/aspnetcore-browser-refresh.js - null null
+2025-09-04 12:14:21.759 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7002/css/WaterTank.css - null null
+2025-09-04 12:14:21.767 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7002/js/WaterTank.js - null null
+2025-09-04 12:14:21.771 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7002/lib/bootstrap/dist/js/bootstrap.bundle.min.js - null null
+2025-09-04 12:14:21.775 +05:30 [INF] The file /lib/bootstrap/dist/css/bootstrap.min.css was not modified
+2025-09-04 12:14:21.782 +05:30 [INF] The file /lib/jquery/dist/jquery.min.js was not modified
+2025-09-04 12:14:21.783 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7002/lib/bootstrap/dist/css/bootstrap.min.css - 304 null text/css 24.2799ms
+2025-09-04 12:14:21.787 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7002/_vs/browserLink - null null
+2025-09-04 12:14:21.787 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7002/lib/jquery/dist/jquery.min.js - 304 null text/javascript 28.3652ms
+2025-09-04 12:14:21.788 +05:30 [INF] Sending file. Request path: '/js/site.js'. Physical path: 'C:\Prathap\Working\WaterTankApplication\WaterTankApplication\wwwroot\js\site.js'
+2025-09-04 12:14:21.788 +05:30 [INF] Sending file. Request path: '/WaterTankApplication.styles.css'. Physical path: 'C:\Prathap\Working\WaterTankApplication\WaterTankApplication\obj\Debug\net8.0\scopedcss\bundle\WaterTankApplication.styles.css'
+2025-09-04 12:14:21.792 +05:30 [INF] Sending file. Request path: '/css/site.css'. Physical path: 'C:\Prathap\Working\WaterTankApplication\WaterTankApplication\wwwroot\css\site.css'
+2025-09-04 12:14:21.793 +05:30 [INF] Sending file. Request path: '/css/WaterTank.css'. Physical path: 'C:\Prathap\Working\WaterTankApplication\WaterTankApplication\wwwroot\css\WaterTank.css'
+2025-09-04 12:14:21.796 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7002/WaterTankApplication.styles.css?v=Xk3stN24iKwWHhkipm_Dx3rrUXI8xnK2UOqm9odS_GI - 200 1138 text/css 36.7157ms
+2025-09-04 12:14:21.796 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7002/_framework/aspnetcore-browser-refresh.js - 200 16525 application/javascript; charset=utf-8 36.6599ms
+2025-09-04 12:14:21.798 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7002/js/site.js?v=hRQyftXiu1lLX2P9Ly9xa4gHJgLeR1uGN5qegUobtGo - 200 231 text/javascript 39.7726ms
+2025-09-04 12:14:21.801 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7002/css/site.css?v=pAGv4ietcJNk_EwsQZ5BN9-K4MuNYS2a9wl4Jw-q9D0 - 200 362 text/css 42.7887ms
+2025-09-04 12:14:21.803 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7002/css/WaterTank.css - 200 2650 text/css 43.5711ms
+2025-09-04 12:14:21.819 +05:30 [INF] The file /lib/bootstrap/dist/js/bootstrap.bundle.min.js was not modified
+2025-09-04 12:14:21.821 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7002/lib/bootstrap/dist/js/bootstrap.bundle.min.js - 304 null text/javascript 50.159ms
+2025-09-04 12:14:21.830 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7002/_vs/browserLink - 200 null text/javascript; charset=UTF-8 42.3629ms
+2025-09-04 12:14:21.839 +05:30 [INF] Sending file. Request path: '/js/WaterTank.js'. Physical path: 'C:\Prathap\Working\WaterTankApplication\WaterTankApplication\wwwroot\js\WaterTank.js'
+2025-09-04 12:14:21.840 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7002/js/WaterTank.js - 200 6274 text/javascript 73.0127ms
+2025-09-04 12:14:32.488 +05:30 [INF] Request starting HTTP/2 POST https://localhost:7002/ - application/x-www-form-urlencoded 223
+2025-09-04 12:14:32.497 +05:30 [INF] Executing endpoint 'WaterTankApplication.Controllers.WaterTankController.Index (WaterTankApplication)'
+2025-09-04 12:14:32.506 +05:30 [INF] Route matched with {action = "Index", controller = "WaterTank"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index(System.String) on controller WaterTankApplication.Controllers.WaterTankController (WaterTankApplication).
+2025-09-04 12:14:32.544 +05:30 [INF] POST WaterTank Index called with input: [0,4,0,0,6,0]
+2025-09-04 12:14:32.546 +05:30 [INF] Parsed input blocks: 0, 4, 0, 0, 6, 0
+2025-09-04 12:14:32.548 +05:30 [INF] Starting trapped water calculation.
+2025-09-04 12:14:32.553 +05:30 [INF] Completed calculation: total trapped water = 8
+2025-09-04 12:14:32.553 +05:30 [INF] Trapped water calculated: 8
+2025-09-04 12:14:32.560 +05:30 [INF] Executing ViewResult, running view Index.
+2025-09-04 12:14:32.576 +05:30 [INF] Executed ViewResult - view Index executed in 17.0475ms.
+2025-09-04 12:14:32.577 +05:30 [INF] Executed action WaterTankApplication.Controllers.WaterTankController.Index (WaterTankApplication) in 64.8284ms
+2025-09-04 12:14:32.578 +05:30 [INF] Executed endpoint 'WaterTankApplication.Controllers.WaterTankController.Index (WaterTankApplication)'
+2025-09-04 12:14:32.580 +05:30 [INF] Request finished HTTP/2 POST https://localhost:7002/ - 200 null text/html; charset=utf-8 92.9096ms
+2025-09-04 12:14:32.594 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7002/_framework/aspnetcore-browser-refresh.js - null null
+2025-09-04 12:14:32.594 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7002/_vs/browserLink - null null
+2025-09-04 12:14:32.605 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7002/_framework/aspnetcore-browser-refresh.js - 200 16525 application/javascript; charset=utf-8 10.9242ms
+2025-09-04 12:14:32.619 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7002/_vs/browserLink - 200 null text/javascript; charset=UTF-8 25.7534ms

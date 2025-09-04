@@ -1,0 +1,160 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Prathap\\Working\\WaterTankApplication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8EE54485-0300-4041-A095-BB353E73AEE1}|WaterTankApplication\\WaterTankApplication.csproj|c:\\prathap\\working\\watertankapplication\\watertankapplication\\controllers\\watertankcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EE54485-0300-4041-A095-BB353E73AEE1}|WaterTankApplication\\WaterTankApplication.csproj|solutionrelative:watertankapplication\\controllers\\watertankcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EE54485-0300-4041-A095-BB353E73AEE1}|WaterTankApplication\\WaterTankApplication.csproj|c:\\prathap\\working\\watertankapplication\\watertankapplication\\models\\watertankservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EE54485-0300-4041-A095-BB353E73AEE1}|WaterTankApplication\\WaterTankApplication.csproj|solutionrelative:watertankapplication\\models\\watertankservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EE54485-0300-4041-A095-BB353E73AEE1}|WaterTankApplication\\WaterTankApplication.csproj|c:\\prathap\\working\\watertankapplication\\watertankapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EE54485-0300-4041-A095-BB353E73AEE1}|WaterTankApplication\\WaterTankApplication.csproj|solutionrelative:watertankapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EE54485-0300-4041-A095-BB353E73AEE1}|WaterTankApplication\\WaterTankApplication.csproj|c:\\prathap\\working\\watertankapplication\\watertankapplication\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8EE54485-0300-4041-A095-BB353E73AEE1}|WaterTankApplication\\WaterTankApplication.csproj|solutionrelative:watertankapplication\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EE54485-0300-4041-A095-BB353E73AEE1}|WaterTankApplication\\WaterTankApplication.csproj|c:\\prathap\\working\\watertankapplication\\watertankapplication\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8EE54485-0300-4041-A095-BB353E73AEE1}|WaterTankApplication\\WaterTankApplication.csproj|solutionrelative:watertankapplication\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EE54485-0300-4041-A095-BB353E73AEE1}|WaterTankApplication\\WaterTankApplication.csproj|c:\\prathap\\working\\watertankapplication\\watertankapplication\\wwwroot\\css\\watertank.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{8EE54485-0300-4041-A095-BB353E73AEE1}|WaterTankApplication\\WaterTankApplication.csproj|solutionrelative:watertankapplication\\wwwroot\\css\\watertank.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EE54485-0300-4041-A095-BB353E73AEE1}|WaterTankApplication\\WaterTankApplication.csproj|c:\\prathap\\working\\watertankapplication\\watertankapplication\\views\\watertank\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8EE54485-0300-4041-A095-BB353E73AEE1}|WaterTankApplication\\WaterTankApplication.csproj|solutionrelative:watertankapplication\\views\\watertank\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EE54485-0300-4041-A095-BB353E73AEE1}|WaterTankApplication\\WaterTankApplication.csproj|c:\\prathap\\working\\watertankapplication\\watertankapplication\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8EE54485-0300-4041-A095-BB353E73AEE1}|WaterTankApplication\\WaterTankApplication.csproj|solutionrelative:watertankapplication\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Prathap\\Working\\WaterTankApplication\\WaterTankApplication\\appsettings.json",
+              "RelativeDocumentMoniker": "WaterTankApplication\\appsettings.json",
+              "ToolTip": "C:\\Prathap\\Working\\WaterTankApplication\\WaterTankApplication\\appsettings.json",
+              "RelativeToolTip": "WaterTankApplication\\appsettings.json",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAcAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-04T02:37:43.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WaterTankService.cs",
+              "DocumentMoniker": "C:\\Prathap\\Working\\WaterTankApplication\\WaterTankApplication\\Models\\WaterTankService.cs",
+              "RelativeDocumentMoniker": "WaterTankApplication\\Models\\WaterTankService.cs",
+              "ToolTip": "C:\\Prathap\\Working\\WaterTankApplication\\WaterTankApplication\\Models\\WaterTankService.cs",
+              "RelativeToolTip": "WaterTankApplication\\Models\\WaterTankService.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAwwEEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T02:23:34.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WaterTank.css",
+              "DocumentMoniker": "C:\\Prathap\\Working\\WaterTankApplication\\WaterTankApplication\\wwwroot\\css\\WaterTank.css",
+              "RelativeDocumentMoniker": "WaterTankApplication\\wwwroot\\css\\WaterTank.css",
+              "ToolTip": "C:\\Prathap\\Working\\WaterTankApplication\\WaterTankApplication\\wwwroot\\css\\WaterTank.css",
+              "RelativeToolTip": "WaterTankApplication\\wwwroot\\css\\WaterTank.css",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAgwFkAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-09-04T02:20:50.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Prathap\\Working\\WaterTankApplication\\WaterTankApplication\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "WaterTankApplication\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Prathap\\Working\\WaterTankApplication\\WaterTankApplication\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "WaterTankApplication\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-04T01:38:40.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Prathap\\Working\\WaterTankApplication\\WaterTankApplication\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "WaterTankApplication\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Prathap\\Working\\WaterTankApplication\\WaterTankApplication\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "WaterTankApplication\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA8AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-04T01:37:47.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WaterTankController.cs",
+              "DocumentMoniker": "C:\\Prathap\\Working\\WaterTankApplication\\WaterTankApplication\\Controllers\\WaterTankController.cs",
+              "RelativeDocumentMoniker": "WaterTankApplication\\Controllers\\WaterTankController.cs",
+              "ToolTip": "C:\\Prathap\\Working\\WaterTankApplication\\WaterTankApplication\\Controllers\\WaterTankController.cs",
+              "RelativeToolTip": "WaterTankApplication\\Controllers\\WaterTankController.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAcwBQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T01:34:49.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Prathap\\Working\\WaterTankApplication\\WaterTankApplication\\Program.cs",
+              "RelativeDocumentMoniker": "WaterTankApplication\\Program.cs",
+              "ToolTip": "C:\\Prathap\\Working\\WaterTankApplication\\WaterTankApplication\\Program.cs",
+              "RelativeToolTip": "WaterTankApplication\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T01:18:53.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Prathap\\Working\\WaterTankApplication\\WaterTankApplication\\Views\\WaterTank\\Index.cshtml",
+              "RelativeDocumentMoniker": "WaterTankApplication\\Views\\WaterTank\\Index.cshtml",
+              "ToolTip": "C:\\Prathap\\Working\\WaterTankApplication\\WaterTankApplication\\Views\\WaterTank\\Index.cshtml",
+              "RelativeToolTip": "WaterTankApplication\\Views\\WaterTank\\Index.cshtml",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAuwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-04T01:16:29.127Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

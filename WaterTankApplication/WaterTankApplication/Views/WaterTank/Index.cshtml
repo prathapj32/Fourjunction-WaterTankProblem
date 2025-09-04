@@ -1,0 +1,28 @@
+﻿@{
+    ViewData["Title"] = "Water Tank Application";
+}
+<link rel="stylesheet" href="~/css/WaterTank.css" />
+
+<h1>Water Tank Application</h1>
+<form method="post" asp-controller="WaterTank" asp-action="Index">
+    <label for="inputHeights">Enter block heights as array (e.g. [0,4,0,0,6,0]):</label><br />
+    <input type="text" id="inputHeights" name="inputHeights" value="@ViewBag.Input" placeholder="[0,4,0,0,6,0]"
+           onkeypress="return validateKeyPress(event)" autocomplete="off" spellcheck="false" />
+    <button type="submit">Calculate Trapped Water</button>
+</form>
+
+@if (ViewBag.Error != null)
+{
+    <p class="error">@ViewBag.Error</p>
+}
+<p id="totalWaterMsg" class="success"></p>
+
+<div id="visualizationWrapper">
+    <div id="inputSVGContainer">
+        <h3>Input Visualization</h3>
+    </div>
+    <div id="outputSVGContainer">
+        <h3>Output Visualization</h3>
+    </div>
+</div>
+<script src="~/js/WaterTank.js"></script>
